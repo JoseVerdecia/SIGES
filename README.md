@@ -26,8 +26,9 @@
   <a href="#-key-features">Features</a> ·
   <a href="#-system-gallery">Gallery</a> ·
   <a href="#-technologies">Technologies</a> ·
-  <a href="docs/PORTFOLIO.md">Case Study</a> ·
-  <a href="docs/FEATURES.md">Documentation</a>
+  <a href="docs/PORTFOLIO.en.md">Case Study</a> ·
+  <a href="docs/FEATURES.en.md">Documentation</a> ·
+  <a href="docs/LINKEDIN.en.md">LinkedIn</a>
 </p>
 
 ---
@@ -107,7 +108,7 @@ Area managers record actual results and can request changes to goals. Process ma
 ###  Evaluation summaries
 SIGES provides consolidated views to analyze the status of indicators, processes, and strategic objectives.
 
-For a more detailed description of the modules, see [docs/FEATURES.md](docs/FEATURES.md).
+For a more detailed description of the modules, see [docs/FEATURES.en.md](docs/FEATURES.en.md).
 
 ---
 
@@ -197,7 +198,7 @@ The solution is designed to manage the complete institutional indicator lifecycl
 
 Beyond its academic context, SIGES represents hands-on experience building a management application with business rules, multiple user roles, data persistence, APIs, and a web interface for a real institutional scenario.
 
-📄 **[Read the project case study →](docs/PORTFOLIO.md)**
+📄 **[Read the project case study →](docs/PORTFOLIO.en.md)**
 
 ---
 
