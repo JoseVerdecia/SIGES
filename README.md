@@ -15,6 +15,14 @@
   Facultad de Informática y Matemática · Sede Oscar Lucero Moya
 </p>
 
+<p align="center">
+  <a href="#-sobre-el-proyecto">Sobre el proyecto</a> ·
+  <a href="#-características-principales">Funcionalidades</a> ·
+  <a href="#-tecnologías-utilizadas">Tecnologías</a> ·
+  <a href="docs/PORTFOLIO.md">Caso de estudio</a> ·
+  <a href="docs/FEATURES.md">Documentación</a>
+</p>
+
 ---
 
 ##  Sobre el proyecto
@@ -92,6 +100,8 @@ Los responsables de área registran los resultados alcanzados y pueden solicitar
 ###  Resúmenes de evaluación
 SIGES ofrece vistas consolidadas para analizar el estado de los indicadores, procesos y objetivos estratégicos.
 
+Para una descripción más detallada de los módulos, consulta [docs/FEATURES.md](docs/FEATURES.md).
+
 ---
 
 ##  Tecnologías utilizadas
@@ -128,7 +138,15 @@ La solución está orientada a gestionar el ciclo completo de los indicadores in
 
 ---
 
-##  Cómo ejecutar el proyecto
+## 💼 Proyecto de portfolio
+
+Además de su contexto académico, SIGES representa una experiencia práctica en el desarrollo de una aplicación de gestión con reglas de negocio, distintos roles de usuario, persistencia de datos, APIs y una interfaz web para un contexto institucional real.
+
+📄 **[Leer el caso de estudio del proyecto →](docs/PORTFOLIO.md)**
+
+---
+
+## 🚀 Cómo ejecutar el proyecto
 
 1. Clona el repositorio.
 2. Abre la solución `WEB.sln` con Visual Studio o JetBrains Rider.
