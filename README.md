@@ -44,7 +44,7 @@ SIGES makes it possible to manage indicators and goals, link them to university 
 
 ---
 
-## 🎯 The problem SIGES solves
+##  The problem SIGES solves
 
 ### Before
 
@@ -68,21 +68,21 @@ SIGES makes it possible to manage indicators and goals, link them to university 
 
 ---
 
-## ✨ Key features
+##  Key features
 
-### 📊 Indicator management
+###  Indicator management
 Manage institutional indicators, including targets, actual results, type, source, associated process, and strategic objective.
 
-### 🔄 Process management
+###  Process management
 Organize university processes and consolidate their evaluation based on the performance of their indicators.
 
-### 🏢 Area management
+###  Area management
 Manage responsible organizational areas, including faculties and municipalities, with specific targets and results.
 
-### 🎯 Strategic objectives
+###  Strategic objectives
 Manage strategic objectives and evaluate their fulfillment based on associated indicators.
 
-### ⚙️ Automated evaluation
+###  Automated evaluation
 The system calculates compliance and classifies results into categories such as:
 
 - Overachieved
@@ -91,7 +91,7 @@ The system calculates compliance and classifies results into categories such as:
 - Not achieved
 - Not evaluated
 
-### 👥 Users and roles
+###  Users and roles
 The system includes four differentiated roles:
 
 - **Administrator**
@@ -101,17 +101,17 @@ The system includes four differentiated roles:
 
 Each role has specific responsibilities and permissions within the management and evaluation workflow.
 
-### 🔐 Responsibility workflow
+###  Responsibility workflow
 Area managers record actual results and can request changes to goals. Process managers oversee the indicators under their responsibility and handle related requests. The administrator manages users, general configuration, and the evaluation process.
 
-### 📈 Evaluation summaries
+###  Evaluation summaries
 SIGES provides consolidated views to analyze the status of indicators, processes, and strategic objectives.
 
 For a more detailed description of the modules, see [docs/FEATURES.md](docs/FEATURES.md).
 
 ---
 
-## 🖼️ System gallery
+##  System gallery
 
 ### Account creation
 
@@ -159,7 +159,7 @@ For a more detailed description of the modules, see [docs/FEATURES.md](docs/FEAT
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 | Technology | Purpose |
 |---|---|
@@ -174,7 +174,7 @@ For a more detailed description of the modules, see [docs/FEATURES.md](docs/FEAT
 
 ---
 
-## 📐 Functional scope
+##  Functional scope
 
 The thesis project defines **50 functional requirements**, organized into eight packages, and **42 REST operations** distributed across six web services.
 
@@ -182,7 +182,7 @@ The solution is designed to manage the complete institutional indicator lifecycl
 
 ---
 
-## 👤 System roles
+##  System roles
 
 | Role | Main responsibility |
 |---|---|
@@ -193,7 +193,7 @@ The solution is designed to manage the complete institutional indicator lifecycl
 
 ---
 
-## 💼 Portfolio project
+##  Portfolio project
 
 Beyond its academic context, SIGES represents hands-on experience building a management application with business rules, multiple user roles, data persistence, APIs, and a web interface for a real institutional scenario.
 
@@ -201,7 +201,7 @@ Beyond its academic context, SIGES represents hands-on experience building a man
 
 ---
 
-## 🚀 Running the project
+##  Running the project
 
 1. Clone the repository.
 2. Open the `WEB.sln` solution using Visual Studio or JetBrains Rider.
@@ -213,7 +213,7 @@ Beyond its academic context, SIGES represents hands-on experience building a man
 
 ---
 
-## 🎓 Academic context
+##  Academic context
 
 This project was developed as a **Diploma Thesis for the Computer Engineering degree** at the **University of Holguín**, Faculty of Computer Science and Mathematics, **Oscar Lucero Moya Campus**.
 
@@ -221,7 +221,7 @@ The research objective was to develop a web system that would computerize the ma
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **José Osvaldo Verdecia Argota**
 
