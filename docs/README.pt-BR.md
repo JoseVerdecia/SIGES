@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 **SIGES** é uma aplicação web desenvolvida para digitalizar e centralizar a gestão dos indicadores e metas institucionais da **Universidade de Holguín**.
 
@@ -25,7 +25,7 @@ O SIGES permite administrar indicadores e metas, vinculá-los aos processos univ
 
 > 🎓 **Trabalho de conclusão desenvolvido para a obtenção do título de Engenheiro Informático.**
 
-## 🎯 O problema que o SIGES resolve
+##  O problema que o SIGES resolve
 
 ### Antes
 - Informações distribuídas entre documentos e planilhas.
@@ -43,30 +43,30 @@ O SIGES permite administrar indicadores e metas, vinculá-los aos processos univ
 - Avaliação automática de indicadores, processos e objetivos.
 - Gestão de usuários conforme responsabilidades e permissões.
 
-## ✨ Principais funcionalidades
+##  Principais funcionalidades
 
-### 📊 Gestão de indicadores
+###  Gestão de indicadores
 Administração de indicadores institucionais com meta, resultado real, tipo, origem, processo e objetivo estratégico associado.
 
-### 🔄 Gestão de processos
+###  Gestão de processos
 Organização dos processos universitários e consolidação de sua avaliação a partir do desempenho dos indicadores.
 
-### 🏢 Gestão de áreas
+###  Gestão de áreas
 Administração de faculdades e municípios responsáveis, com metas e resultados específicos.
 
-### 🎯 Objetivos estratégicos
+###  Objetivos estratégicos
 Gestão dos objetivos estratégicos e avaliação de seu cumprimento a partir dos indicadores associados.
 
-### ⚙️ Avaliação automatizada
+###  Avaliação automatizada
 O sistema calcula o cumprimento e classifica os resultados como **Superado, Cumprido, Parcialmente cumprido, Não cumprido** ou **Não avaliado**.
 
-### 👥 Usuários e funções
+###  Usuários e funções
 - **Administrador**
 - **Responsável pelo Processo**
 - **Responsável pela Área**
 - **Usuário Normal**
 
-## 🖼️ Galeria do sistema
+##  Galeria do sistema
 
 ### Criação de conta
 <p align="center"><img src="Criar%20Conta.jpg" alt="Criação de conta no SIGES" width="850" /></p>
@@ -90,7 +90,7 @@ O sistema calcula o cumprimento e classifica os resultados como **Superado, Cump
 <p align="center"><img src="Evaluacion%20del%20Indicador.jpg" alt="Avaliação do indicador" width="850" /></p>
 <p align="center"><img src="Evaluacion%20Proceso.png" alt="Avaliação do processo" width="850" /></p>
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 | Tecnologia | Uso no projeto |
 |---|---|
@@ -103,17 +103,17 @@ O sistema calcula o cumprimento e classifica os resultados como **Superado, Cump
 | **ASP.NET Core** | Serviços e funcionalidades web |
 | **REST API** | Comunicação por operações HTTP |
 
-## 📐 Escopo funcional
+##  Escopo funcional
 
 O projeto de tese define **50 requisitos funcionais**, organizados em oito pacotes, e **42 operações REST** distribuídas em seis serviços web.
 
-## 💼 Projeto para portfólio
+##  Projeto para portfólio
 
 Além do contexto acadêmico, o SIGES representa experiência prática no desenvolvimento de uma aplicação de gestão com regras de negócio, diferentes funções de usuário, persistência de dados, APIs e uma interface web para um contexto institucional real.
 
 📄 [Estudo de caso](PORTFOLIO.md) · 📋 [Documentação das funcionalidades](FEATURES.md) · 💼 [Apresentação para LinkedIn](LINKEDIN.md)
 
-## 👨‍💻 Autor
+##  Autor
 
 **José Osvaldo Verdecia Argota**
 
