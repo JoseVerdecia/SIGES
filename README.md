@@ -25,6 +25,7 @@
   <a href="#-about-the-project">About</a> ·
   <a href="#-key-features">Features</a> ·
   <a href="#-system-gallery">Gallery</a> ·
+  <a href="#-project-status">Project Status</a> ·
   <a href="#-technologies">Technologies</a> ·
   <a href="docs/PORTFOLIO.en.md">Case Study</a> ·
   <a href="docs/FEATURES.en.md">Documentation</a> ·
@@ -157,6 +158,25 @@ For a more detailed description of the modules, see [docs/FEATURES.en.md](docs/F
 <p align="center">
   <img src="docs/Evaluacion%20Proceso.png" alt="Process evaluation" width="850" />
 </p>
+
+---
+
+##  Project Status
+
+SIGES was originally developed as a Computer Engineering thesis project. The repository is currently being reviewed and improved as part of its modernization and preparation for professional portfolio use.
+
+Some features may require bug fixes, refactoring, or updates before the project can be considered production-ready.
+
+Current improvement areas include:
+
+- Bug fixes and stability improvements.
+- Codebase modernization and refactoring.
+- Dependency and package updates.
+- Expanded automated test coverage.
+- UI/UX improvements.
+- Deployment and production configuration.
+
+For the complete project status and improvement scope, see **[Project Status](docs/PROJECT_STATUS.en.md)**.
 
 ---
 
