@@ -18,6 +18,7 @@
 <p align="center">
   <a href="#-sobre-el-proyecto">Sobre el proyecto</a> ·
   <a href="#-características-principales">Funcionalidades</a> ·
+  <a href="#️-galería-del-sistema">Galería</a> ·
   <a href="#-tecnologías-utilizadas">Tecnologías</a> ·
   <a href="docs/PORTFOLIO.md">Caso de estudio</a> ·
   <a href="docs/FEATURES.md">Documentación</a>
@@ -25,7 +26,17 @@
 
 ---
 
-##  Sobre el proyecto
+## 🖥️ Vista del sistema
+
+<p align="center">
+  <img src="docs/Indicadores.jpg" alt="Gestión de indicadores en SIGES" width="900" />
+</p>
+
+<p align="center"><i>Gestión centralizada de indicadores institucionales, metas, resultados y evaluación.</i></p>
+
+---
+
+## 📌 Sobre el proyecto
 
 **SIGES** es una aplicación web desarrollada para digitalizar y centralizar la gestión de los indicadores y metas institucionales de la **Universidad de Holguín**.
 
@@ -37,80 +48,155 @@ SIGES permite administrar indicadores y metas, vincularlos con procesos universi
 
 ---
 
-##  El problema que resuelve
+## 🔄 El problema que resuelve
 
-### Antes
-
-- Información distribuida entre documentos y hojas de cálculo.
-- Consolidación manual de datos provenientes de diferentes áreas.
-- Cálculos manuales de porcentajes de cumplimiento.
-- Riesgo de errores al aplicar las reglas de evaluación.
-- Dificultad para conocer el historial y la trazabilidad de los cambios.
-- Comunicación informal para negociar o solicitar cambios de metas.
-
-### Con SIGES
-
-- Gestión centralizada de indicadores y metas.
-- Registro estructurado de procesos, áreas y objetivos estratégicos.
-- Metas diferenciadas por áreas.
-- Registro de resultados reales.
-- Cálculo automatizado del porcentaje de cumplimiento.
-- Evaluación automática de indicadores, procesos y objetivos.
-- Gestión de usuarios según responsabilidades y permisos.
-- Mayor trazabilidad del proceso de evaluación institucional.
+| Antes | Con SIGES |
+|---|---|
+| Información distribuida entre Word y Excel | Gestión centralizada de indicadores y metas |
+| Consolidación manual de datos | Información estructurada por procesos y áreas |
+| Cálculos manuales | Cálculo automatizado del cumplimiento |
+| Riesgo de errores en la evaluación | Aplicación sistemática de reglas de evaluación |
+| Dificultad para consultar resultados | Resúmenes consolidados para el seguimiento |
 
 ---
 
-##  Características principales
+## ✨ Características principales
 
-###  Gestión de indicadores
-Administración de indicadores institucionales con información como meta, resultado real, tipo, origen, proceso y objetivo estratégico asociado.
+- 📊 Gestión de indicadores institucionales.
+- 🏢 Gestión de procesos universitarios.
+- 🏛️ Administración de áreas, facultades y municipios.
+- 🎯 Gestión de objetivos estratégicos.
+- 📈 Registro de metas y resultados reales.
+- ⚙️ Evaluación automatizada del cumplimiento.
+- 👥 Gestión de usuarios y roles.
+- 📑 Resúmenes de evaluación por procesos y objetivos.
 
-###  Gestión de procesos
-Organización de los procesos universitarios y consolidación de su evaluación a partir del desempeño de sus indicadores.
+---
 
-###  Gestión de áreas
-Administración de las áreas responsables, incluyendo facultades y municipios, con metas y resultados específicos.
+# 🖼️ Galería del sistema
 
-###  Objetivos estratégicos
-Gestión de los objetivos estratégicos y evaluación de su cumplimiento a partir de los indicadores asociados.
+## 🔐 Registro y acceso de usuarios
 
-###  Evaluación automatizada
-El sistema calcula el cumplimiento y clasifica los resultados en categorías como:
+SIGES incorpora gestión de cuentas y usuarios como parte del control de acceso al sistema.
 
-- Sobrecumplido
-- Cumplido
-- Parcialmente cumplido
-- Incumplido
-- No evaluado
+<p align="center">
+  <img src="docs/Crear%20Cuenta.jpg" alt="Creación de cuenta en SIGES" width="800" />
+</p>
 
-###  Usuarios y roles
+---
+
+## 📊 Gestión de indicadores
+
+Los indicadores constituyen el núcleo del sistema. Desde esta sección se administra la información necesaria para su seguimiento y evaluación.
+
+<p align="center">
+  <img src="docs/Indicadores.jpg" alt="Listado y gestión de indicadores" width="900" />
+</p>
+
+### Creación de un indicador
+
+El proceso de creación está organizado por pasos, permitiendo introducir la información necesaria de manera estructurada.
+
+<p align="center">
+  <img src="docs/Paso%231%20Crear%20Indicador.png" alt="Paso 1 para crear un indicador" width="31%" />
+  <img src="docs/Paso%232%20Crear%20Indicador.png" alt="Paso 2 para crear un indicador" width="31%" />
+  <img src="docs/Paso%233%20Crear%20Indicador.png" alt="Paso 3 para crear un indicador" width="31%" />
+</p>
+
+---
+
+## 🏛️ Gestión de áreas
+
+Administración de las áreas responsables dentro de la estructura institucional.
+
+<p align="center">
+  <img src="docs/Areas.jpg" alt="Gestión de áreas en SIGES" width="900" />
+</p>
+
+---
+
+## 🎯 Objetivos estratégicos
+
+Los indicadores pueden relacionarse con los objetivos estratégicos para facilitar el seguimiento del cumplimiento institucional.
+
+<p align="center">
+  <img src="docs/Objetivos.jpg" alt="Gestión de objetivos estratégicos" width="900" />
+</p>
+
+---
+
+## ⚙️ Evaluación de indicadores
+
+SIGES calcula el porcentaje de cumplimiento y permite clasificar el resultado de acuerdo con las reglas de evaluación definidas.
+
+<p align="center">
+  <img src="docs/Porcentaje%20de%20Cumplimiento.png" alt="Porcentaje de cumplimiento" width="48%" />
+  <img src="docs/Evaluacion%20del%20Indicador.jpg" alt="Evaluación del indicador" width="48%" />
+</p>
+
+### Estados de evaluación
+
+<p align="center">
+  <img src="docs/Cumplido.png" alt="Indicador cumplido" width="45%" />
+  <img src="docs/Parcialmente%20Cumplido.png" alt="Indicador parcialmente cumplido" width="45%" />
+</p>
+
+Los resultados pueden clasificarse como **Sobrecumplido, Cumplido, Parcialmente cumplido, Incumplido o No evaluado**, según corresponda.
+
+---
+
+## 📈 Evaluación de procesos
+
+Los resultados individuales pueden consolidarse para evaluar el comportamiento de los procesos institucionales.
+
+<p align="center">
+  <img src="docs/Evaluacion%20Proceso.png" alt="Evaluación de procesos en SIGES" width="900" />
+</p>
+
+---
+
+## 🔄 Flujo general de gestión
+
+```text
+Objetivos Estratégicos
+        ↓
+     Procesos
+        ↓
+    Indicadores
+        ↓
+       Metas
+        ↓
+Resultados Reales
+        ↓
+Porcentaje de Cumplimiento
+        ↓
+    Evaluación
+        ↓
+Resúmenes y seguimiento institucional
+```
+
+---
+
+## 👥 Usuarios y roles
+
 El sistema contempla cuatro roles diferenciados:
 
-- **Administrador**
-- **Jefe de Proceso**
-- **Jefe de Área**
-- **Usuario Normal**
-
-Cada rol dispone de responsabilidades y permisos específicos dentro del proceso de gestión y evaluación.
-
-###  Flujo de responsabilidades
-Los responsables de área registran los resultados alcanzados y pueden solicitar cambios de metas. Los responsables de proceso gestionan los indicadores bajo su responsabilidad y atienden las solicitudes relacionadas. El administrador controla la configuración general, los usuarios y el proceso de evaluación.
-
-###  Resúmenes de evaluación
-SIGES ofrece vistas consolidadas para analizar el estado de los indicadores, procesos y objetivos estratégicos.
-
-Para una descripción más detallada de los módulos, consulta [docs/FEATURES.md](docs/FEATURES.md).
+| Rol | Responsabilidad principal |
+|---|---|
+| **Administrador** | Gestiona usuarios, configuración general y evaluación del sistema |
+| **Jefe de Proceso** | Gestiona indicadores asociados a su proceso |
+| **Jefe de Área** | Registra resultados y participa en la gestión de metas |
+| **Usuario Normal** | Accede a las funcionalidades habilitadas según sus permisos |
 
 ---
 
-##  Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 | Tecnología | Uso en el proyecto |
 |---|---|
 | **C#** | Lenguaje principal de desarrollo |
 | **.NET 10** | Plataforma de desarrollo |
-| **Blazor Server** | Interfaz web y experiencia de usuario |
+| **Blazor Server** | Interfaz web |
 | **SQL Server** | Persistencia de datos |
 | **Entity Framework Core** | Acceso y gestión de datos |
 | **FluentUI Blazor** | Componentes de interfaz |
@@ -119,54 +205,47 @@ Para una descripción más detallada de los módulos, consulta [docs/FEATURES.md
 
 ---
 
-##  Alcance funcional
+## 📐 Alcance funcional
 
 El proyecto de tesis define **50 requisitos funcionales**, organizados en ocho paquetes, y **42 operaciones REST** distribuidas en seis servicios web.
 
-La solución está orientada a gestionar el ciclo completo de los indicadores institucionales: configuración, asignación, definición de metas, registro de resultados, cálculo del cumplimiento, evaluación y consolidación de resultados.
-
----
-
-##  Roles del sistema
-
-| Rol | Responsabilidad principal |
-|---|---|
-| **Administrador** | Gestiona usuarios, configuración general y evaluación del sistema |
-| **Jefe de Proceso** | Gestiona indicadores asociados a su proceso y consolida información relacionada |
-| **Jefe de Área** | Registra resultados reales y participa en la gestión de metas de su área |
-| **Usuario Normal** | Accede a las funcionalidades habilitadas según su nivel de permisos |
+La solución cubre el ciclo completo de gestión: configuración, asignación, definición de metas, registro de resultados, cálculo del cumplimiento, evaluación y consolidación.
 
 ---
 
 ## 💼 Proyecto de portfolio
 
-Además de su contexto académico, SIGES representa una experiencia práctica en el desarrollo de una aplicación de gestión con reglas de negocio, distintos roles de usuario, persistencia de datos, APIs y una interfaz web para un contexto institucional real.
+SIGES representa una experiencia práctica en el desarrollo de una aplicación de gestión con reglas de negocio, roles de usuario, persistencia de datos, APIs y una interfaz web para un contexto institucional real.
 
 📄 **[Leer el caso de estudio del proyecto →](docs/PORTFOLIO.md)**
+
+📋 **[Ver funcionalidades documentadas →](docs/FEATURES.md)**
+
+💼 **[Ver presentación preparada para LinkedIn →](docs/LINKEDIN.md)**
 
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clona el repositorio.
-2. Abre la solución `WEB.sln` con Visual Studio o JetBrains Rider.
-3. Configura la cadena de conexión y los parámetros necesarios para el entorno.
-4. Restaura las dependencias del proyecto.
+2. Abre `WEB.sln` con Visual Studio o JetBrains Rider.
+3. Configura la cadena de conexión y los parámetros necesarios.
+4. Restaura las dependencias.
 5. Ejecuta la aplicación desde el proyecto web configurado como proyecto de inicio.
 
 > La configuración concreta puede depender del entorno de desarrollo y de los servicios configurados en el proyecto.
 
 ---
 
-##  Contexto académico
+## 🎓 Contexto académico
 
 Este proyecto fue desarrollado como **Trabajo de Diploma en opción al título de Ingeniería Informática** para la **Universidad de Holguín**, en la **Facultad de Informática y Matemática**, sede **Oscar Lucero Moya**.
 
-El objetivo de la investigación fue desarrollar un sistema web que informatizara la gestión de los indicadores y metas institucionales, siguiendo los lineamientos del Proyecto Estratégico del Ministerio de Educación Superior de Cuba.
+El objetivo fue desarrollar un sistema web que informatizara la gestión de indicadores y metas institucionales siguiendo los lineamientos del Proyecto Estratégico del Ministerio de Educación Superior de Cuba.
 
 ---
 
-##  Autor
+## 👨‍💻 Autor
 
 **José Osvaldo Verdecia Argota**
 
