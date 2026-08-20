@@ -13,6 +13,16 @@
 
 <p align="center"><a href="../README.md">🇬🇧 English</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.pt-BR.md">🇧🇷 Português</a></p>
 
+<p align="center">
+  <a href="#-sobre-el-proyecto">Proyecto</a> ·
+  <a href="#-características-principales">Características</a> ·
+  <a href="#-galería-del-sistema">Galería</a> ·
+  <a href="#-tecnologías-utilizadas">Tecnologías</a> ·
+  <a href="PORTFOLIO.md">Caso de estudio</a> ·
+  <a href="FEATURES.md">Documentación</a> ·
+  <a href="LINKEDIN.md">LinkedIn</a>
+</p>
+
 ---
 
 ##  Sobre el proyecto
@@ -23,7 +33,7 @@ El proyecto surge como respuesta a un proceso que se realizaba principalmente me
 
 SIGES permite administrar indicadores y metas, vincularlos con procesos universitarios y objetivos estratégicos, establecer metas por áreas y automatizar la evaluación del cumplimiento según las tablas de evaluación del Ministerio de Educación Superior (MES).
 
->  **Trabajo de diploma en opción al título de Ingeniero Informático.**
+> 🎓 **Trabajo de diploma en opción al título de Ingeniero Informático.**
 
 ##  El problema que resuelve
 
