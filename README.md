@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 About the project
+##  About the project
 
 **SIGES** is a web application developed to digitize and centralize the management of institutional indicators and goals at the **University of Holguín**.
 
