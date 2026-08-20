@@ -25,7 +25,7 @@
 
 ---
 
-## 📌 Sobre el proyecto
+##  Sobre el proyecto
 
 **SIGES** es una aplicación web desarrollada para digitalizar y centralizar la gestión de los indicadores y metas institucionales de la **Universidad de Holguín**.
 
@@ -37,7 +37,7 @@ SIGES permite administrar indicadores y metas, vincularlos con procesos universi
 
 ---
 
-## 🎯 El problema que resuelve
+##  El problema que resuelve
 
 ### Antes
 
@@ -61,21 +61,21 @@ SIGES permite administrar indicadores y metas, vincularlos con procesos universi
 
 ---
 
-## ✨ Características principales
+##  Características principales
 
-### 📊 Gestión de indicadores
+###  Gestión de indicadores
 Administración de indicadores institucionales con información como meta, resultado real, tipo, origen, proceso y objetivo estratégico asociado.
 
-### 🔄 Gestión de procesos
+###  Gestión de procesos
 Organización de los procesos universitarios y consolidación de su evaluación a partir del desempeño de sus indicadores.
 
-### 📍 Gestión de áreas
+###  Gestión de áreas
 Administración de las áreas responsables, incluyendo facultades y municipios, con metas y resultados específicos.
 
-### 🚩 Objetivos estratégicos
+###  Objetivos estratégicos
 Gestión de los objetivos estratégicos y evaluación de su cumplimiento a partir de los indicadores asociados.
 
-### 🧮 Evaluación automatizada
+###  Evaluación automatizada
 El sistema calcula el cumplimiento y clasifica los resultados en categorías como:
 
 - Sobrecumplido
@@ -84,7 +84,7 @@ El sistema calcula el cumplimiento y clasifica los resultados en categorías com
 - Incumplido
 - No evaluado
 
-### 👥 Usuarios y roles
+###  Usuarios y roles
 El sistema contempla cuatro roles diferenciados:
 
 - **Administrador**
@@ -94,17 +94,17 @@ El sistema contempla cuatro roles diferenciados:
 
 Cada rol dispone de responsabilidades y permisos específicos dentro del proceso de gestión y evaluación.
 
-### 🔔 Flujo de responsabilidades
+###  Flujo de responsabilidades
 Los responsables de área registran los resultados alcanzados y pueden solicitar cambios de metas. Los responsables de proceso gestionan los indicadores bajo su responsabilidad y atienden las solicitudes relacionadas. El administrador controla la configuración general, los usuarios y el proceso de evaluación.
 
-### 📈 Resúmenes de evaluación
+###  Resúmenes de evaluación
 SIGES ofrece vistas consolidadas para analizar el estado de los indicadores, procesos y objetivos estratégicos.
 
 Para una descripción más detallada de los módulos, consulta [docs/FEATURES.md](docs/FEATURES.md).
 
 ---
 
-## 🏗️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 | Tecnología | Uso en el proyecto |
 |---|---|
@@ -119,7 +119,7 @@ Para una descripción más detallada de los módulos, consulta [docs/FEATURES.md
 
 ---
 
-## 📐 Alcance funcional
+##  Alcance funcional
 
 El proyecto de tesis define **50 requisitos funcionales**, organizados en ocho paquetes, y **42 operaciones REST** distribuidas en seis servicios web.
 
@@ -127,7 +127,7 @@ La solución está orientada a gestionar el ciclo completo de los indicadores in
 
 ---
 
-## 🔐 Roles del sistema
+##  Roles del sistema
 
 | Rol | Responsabilidad principal |
 |---|---|
@@ -158,7 +158,7 @@ Además de su contexto académico, SIGES representa una experiencia práctica en
 
 ---
 
-## 🎓 Contexto académico
+##  Contexto académico
 
 Este proyecto fue desarrollado como **Trabajo de Diploma en opción al título de Ingeniería Informática** para la **Universidad de Holguín**, en la **Facultad de Informática y Matemática**, sede **Oscar Lucero Moya**.
 
@@ -166,7 +166,7 @@ El objetivo de la investigación fue desarrollar un sistema web que informatizar
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **José Osvaldo Verdecia Argota**
 
