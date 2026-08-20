@@ -13,6 +13,16 @@
 
 <p align="center"><a href="../README.md">🇬🇧 English</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.pt-BR.md">🇧🇷 Português</a></p>
 
+<p align="center">
+  <a href="#-sobre-o-projeto">Projeto</a> ·
+  <a href="#-principais-funcionalidades">Funcionalidades</a> ·
+  <a href="#-galeria-do-sistema">Galeria</a> ·
+  <a href="#-tecnologias-utilizadas">Tecnologias</a> ·
+  <a href="PORTFOLIO.pt-BR.md">Estudo de caso</a> ·
+  <a href="FEATURES.pt-BR.md">Documentação</a> ·
+  <a href="LINKEDIN.pt-BR.md">LinkedIn</a>
+</p>
+
 ---
 
 ##  Sobre o projeto
@@ -111,7 +121,7 @@ O projeto de tese define **50 requisitos funcionais**, organizados em oito pacot
 
 Além do contexto acadêmico, o SIGES representa experiência prática no desenvolvimento de uma aplicação de gestão com regras de negócio, diferentes funções de usuário, persistência de dados, APIs e uma interface web para um contexto institucional real.
 
-📄 [Estudo de caso](PORTFOLIO.md) · 📋 [Documentação das funcionalidades](FEATURES.md) · 💼 [Apresentação para LinkedIn](LINKEDIN.md)
+📄 [Estudo de caso](PORTFOLIO.pt-BR.md) · 📋 [Documentação das funcionalidades](FEATURES.pt-BR.md) · 💼 [Apresentação para LinkedIn](LINKEDIN.pt-BR.md)
 
 ##  Autor
 
