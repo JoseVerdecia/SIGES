@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Sobre el proyecto
+##  Sobre el proyecto
 
 **SIGES** es una aplicación web desarrollada para digitalizar y centralizar la gestión de los indicadores y metas institucionales de la **Universidad de Holguín**.
 
@@ -23,9 +23,9 @@ El proyecto surge como respuesta a un proceso que se realizaba principalmente me
 
 SIGES permite administrar indicadores y metas, vincularlos con procesos universitarios y objetivos estratégicos, establecer metas por áreas y automatizar la evaluación del cumplimiento según las tablas de evaluación del Ministerio de Educación Superior (MES).
 
-> 🎓 **Trabajo de diploma en opción al título de Ingeniero Informático.**
+>  **Trabajo de diploma en opción al título de Ingeniero Informático.**
 
-## 🎯 El problema que resuelve
+##  El problema que resuelve
 
 ### Antes
 - Información distribuida entre documentos y hojas de cálculo.
@@ -43,30 +43,30 @@ SIGES permite administrar indicadores y metas, vincularlos con procesos universi
 - Evaluación automática de indicadores, procesos y objetivos.
 - Gestión de usuarios según responsabilidades y permisos.
 
-## ✨ Características principales
+##  Características principales
 
-### 📊 Gestión de indicadores
+###  Gestión de indicadores
 Administración de indicadores institucionales con meta, resultado real, tipo, origen, proceso y objetivo estratégico asociado.
 
-### 🔄 Gestión de procesos
+###  Gestión de procesos
 Organización de los procesos universitarios y consolidación de su evaluación a partir del desempeño de sus indicadores.
 
-### 🏢 Gestión de áreas
+###  Gestión de áreas
 Administración de facultades y municipios responsables, con metas y resultados específicos.
 
-### 🎯 Objetivos estratégicos
+###  Objetivos estratégicos
 Gestión de objetivos estratégicos y evaluación de su cumplimiento a partir de los indicadores asociados.
 
-### ⚙️ Evaluación automatizada
+###  Evaluación automatizada
 El sistema clasifica los resultados como **Sobrecumplido, Cumplido, Parcialmente cumplido, Incumplido** o **No evaluado**.
 
-### 👥 Usuarios y roles
+###  Usuarios y roles
 - **Administrador**
 - **Jefe de Proceso**
 - **Jefe de Área**
 - **Usuario Normal**
 
-## 🖼️ Galería del sistema
+##  Galería del sistema
 
 ### Creación de cuenta
 <p align="center"><img src="Crear%20Cuenta.jpg" alt="Creación de cuenta en SIGES" width="850" /></p>
@@ -90,7 +90,7 @@ El sistema clasifica los resultados como **Sobrecumplido, Cumplido, Parcialmente
 <p align="center"><img src="Evaluacion%20del%20Indicador.jpg" alt="Evaluación del indicador" width="850" /></p>
 <p align="center"><img src="Evaluacion%20Proceso.png" alt="Evaluación de proceso" width="850" /></p>
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 | Tecnología | Uso en el proyecto |
 |---|---|
@@ -103,17 +103,17 @@ El sistema clasifica los resultados como **Sobrecumplido, Cumplido, Parcialmente
 | **ASP.NET Core** | Servicios y funcionalidades web |
 | **REST API** | Comunicación mediante HTTP |
 
-## 📐 Alcance funcional
+##  Alcance funcional
 
 El proyecto de tesis define **50 requisitos funcionales**, organizados en ocho paquetes, y **42 operaciones REST** distribuidas en seis servicios web.
 
-## 💼 Proyecto de portfolio
+##  Proyecto de portfolio
 
 SIGES representa una experiencia práctica en el desarrollo de una aplicación de gestión con reglas de negocio, distintos roles de usuario, persistencia de datos, APIs y una interfaz web para un contexto institucional real.
 
 📄 [Caso de estudio](PORTFOLIO.md) · 📋 [Documentación de funcionalidades](FEATURES.md) · 💼 [Presentación para LinkedIn](LINKEDIN.md)
 
-## 👨‍💻 Autor
+##  Autor
 
 **José Osvaldo Verdecia Argota**
 
