@@ -1,6 +1,6 @@
 # SIGES
 
-### Sistema para la Gestión de los Indicadores y Metas de la Universidad de Holguín
+### Indicator and Goal Management System for the University of Holguín
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
@@ -11,251 +11,227 @@
 </p>
 
 <p align="center">
-  <b>Proyecto de tesis de Ingeniería Informática · Universidad de Holguín</b><br/>
-  Facultad de Informática y Matemática · Sede Oscar Lucero Moya
+  <b>Computer Engineering thesis project · University of Holguín</b><br/>
+  Faculty of Computer Science and Mathematics · Oscar Lucero Moya Campus
 </p>
 
 <p align="center">
-  <a href="#-sobre-el-proyecto">Sobre el proyecto</a> ·
-  <a href="#-características-principales">Funcionalidades</a> ·
-  <a href="#️-galería-del-sistema">Galería</a> ·
-  <a href="#-tecnologías-utilizadas">Tecnologías</a> ·
-  <a href="docs/PORTFOLIO.md">Caso de estudio</a> ·
-  <a href="docs/FEATURES.md">Documentación</a>
+  <a href="README.md">🇬🇧 English</a> |
+  <a href="docs/README.es.md">🇪🇸 Español</a> |
+  <a href="docs/README.pt-BR.md">🇧🇷 Português</a>
 </p>
-
----
-
-## 🖥️ Vista del sistema
 
 <p align="center">
-  <img src="docs/Indicadores.jpg" alt="Gestión de indicadores en SIGES" width="900" />
+  <a href="#-about-the-project">About</a> ·
+  <a href="#-key-features">Features</a> ·
+  <a href="#-system-gallery">Gallery</a> ·
+  <a href="#-technologies">Technologies</a> ·
+  <a href="docs/PORTFOLIO.md">Case Study</a> ·
+  <a href="docs/FEATURES.md">Documentation</a>
 </p>
 
-<p align="center"><i>Gestión centralizada de indicadores institucionales, metas, resultados y evaluación.</i></p>
+---
+
+## 📌 About the project
+
+**SIGES** is a web application developed to digitize and centralize the management of institutional indicators and goals at the **University of Holguín**.
+
+The project was created in response to a process that relied mainly on Microsoft Word documents, Microsoft Excel spreadsheets, and printed records. This approach made information consolidation, change traceability, calculation reliability, and timely access to results more difficult.
+
+SIGES makes it possible to manage indicators and goals, link them to university processes and strategic objectives, define area-specific targets, and automate compliance evaluation according to the evaluation criteria of Cuba's Ministry of Higher Education (MES).
+
+> 🎓 **Diploma thesis submitted as part of the requirements for the Computer Engineering degree.**
 
 ---
 
-## 📌 Sobre el proyecto
+## 🎯 The problem SIGES solves
 
-**SIGES** es una aplicación web desarrollada para digitalizar y centralizar la gestión de los indicadores y metas institucionales de la **Universidad de Holguín**.
+### Before
 
-El proyecto surge como respuesta a un proceso que se realizaba principalmente mediante documentos de Microsoft Word, hojas de cálculo de Microsoft Excel y documentos impresos. Esta forma de trabajo dificultaba la consolidación de la información, la trazabilidad de los cambios, la confiabilidad de los cálculos y la disponibilidad oportuna de resultados para la toma de decisiones.
+- Information distributed across documents and spreadsheets.
+- Manual consolidation of data from different organizational areas.
+- Manual calculation of compliance percentages.
+- Risk of errors when applying evaluation rules.
+- Difficulty tracking historical changes and ensuring traceability.
+- Informal communication for negotiating or requesting goal changes.
 
-SIGES permite administrar indicadores y metas, vincularlos con procesos universitarios y objetivos estratégicos, establecer metas por áreas y automatizar la evaluación del cumplimiento según las tablas de evaluación del Ministerio de Educación Superior (MES).
+### With SIGES
 
-> 🎓 **Trabajo de diploma en opción al título de Ingeniero Informático.**
+- Centralized management of indicators and goals.
+- Structured registration of processes, areas, and strategic objectives.
+- Area-specific goals.
+- Recording of actual results.
+- Automated calculation of compliance percentages.
+- Automatic evaluation of indicators, processes, and objectives.
+- User management based on responsibilities and permissions.
+- Improved traceability of the institutional evaluation process.
 
 ---
 
-## 🔄 El problema que resuelve
+## ✨ Key features
 
-| Antes | Con SIGES |
+### 📊 Indicator management
+Manage institutional indicators, including targets, actual results, type, source, associated process, and strategic objective.
+
+### 🔄 Process management
+Organize university processes and consolidate their evaluation based on the performance of their indicators.
+
+### 🏢 Area management
+Manage responsible organizational areas, including faculties and municipalities, with specific targets and results.
+
+### 🎯 Strategic objectives
+Manage strategic objectives and evaluate their fulfillment based on associated indicators.
+
+### ⚙️ Automated evaluation
+The system calculates compliance and classifies results into categories such as:
+
+- Overachieved
+- Achieved
+- Partially achieved
+- Not achieved
+- Not evaluated
+
+### 👥 Users and roles
+The system includes four differentiated roles:
+
+- **Administrator**
+- **Process Manager**
+- **Area Manager**
+- **Standard User**
+
+Each role has specific responsibilities and permissions within the management and evaluation workflow.
+
+### 🔐 Responsibility workflow
+Area managers record actual results and can request changes to goals. Process managers oversee the indicators under their responsibility and handle related requests. The administrator manages users, general configuration, and the evaluation process.
+
+### 📈 Evaluation summaries
+SIGES provides consolidated views to analyze the status of indicators, processes, and strategic objectives.
+
+For a more detailed description of the modules, see [docs/FEATURES.md](docs/FEATURES.md).
+
+---
+
+## 🖼️ System gallery
+
+### Account creation
+
+<p align="center">
+  <img src="docs/Crear%20Cuenta.jpg" alt="SIGES account creation screen" width="850" />
+</p>
+
+### Indicator management
+
+<p align="center">
+  <img src="docs/Indicadores.jpg" alt="SIGES indicator management" width="900" />
+</p>
+
+### Creating an indicator
+
+<p align="center">
+  <img src="docs/Paso%231%20Crear%20Indicador.png" alt="Step 1 - Create indicator" width="850" />
+  <img src="docs/Paso%232%20Crear%20Indicador.png" alt="Step 2 - Create indicator" width="850" />
+  <img src="docs/Paso%233%20Crear%20Indicador.png" alt="Step 3 - Create indicator" width="850" />
+</p>
+
+### Areas and strategic objectives
+
+<p align="center">
+  <img src="docs/Areas.jpg" alt="Area management" width="850" />
+</p>
+
+<p align="center">
+  <img src="docs/Objetivos.jpg" alt="Strategic objectives" width="850" />
+</p>
+
+### Indicator and process evaluation
+
+<p align="center">
+  <img src="docs/Porcentaje%20de%20Cumplimiento.png" alt="Compliance percentage" width="850" />
+</p>
+
+<p align="center">
+  <img src="docs/Evaluacion%20del%20Indicador.jpg" alt="Indicator evaluation" width="850" />
+</p>
+
+<p align="center">
+  <img src="docs/Evaluacion%20Proceso.png" alt="Process evaluation" width="850" />
+</p>
+
+---
+
+## 🛠️ Technologies
+
+| Technology | Purpose |
 |---|---|
-| Información distribuida entre Word y Excel | Gestión centralizada de indicadores y metas |
-| Consolidación manual de datos | Información estructurada por procesos y áreas |
-| Cálculos manuales | Cálculo automatizado del cumplimiento |
-| Riesgo de errores en la evaluación | Aplicación sistemática de reglas de evaluación |
-| Dificultad para consultar resultados | Resúmenes consolidados para el seguimiento |
+| **C#** | Primary programming language |
+| **.NET 10** | Development platform |
+| **Blazor Server** | Web interface and user experience |
+| **SQL Server** | Data persistence |
+| **Entity Framework Core** | Data access and management |
+| **FluentUI Blazor** | User interface components |
+| **ASP.NET Core** | Web services and application functionality |
+| **REST API** | Communication through HTTP operations |
 
 ---
 
-## ✨ Características principales
+## 📐 Functional scope
 
-- 📊 Gestión de indicadores institucionales.
-- 🏢 Gestión de procesos universitarios.
-- 🏛️ Administración de áreas, facultades y municipios.
-- 🎯 Gestión de objetivos estratégicos.
-- 📈 Registro de metas y resultados reales.
-- ⚙️ Evaluación automatizada del cumplimiento.
-- 👥 Gestión de usuarios y roles.
-- 📑 Resúmenes de evaluación por procesos y objetivos.
+The thesis project defines **50 functional requirements**, organized into eight packages, and **42 REST operations** distributed across six web services.
+
+The solution is designed to manage the complete institutional indicator lifecycle: configuration, assignment, goal definition, actual-result registration, compliance calculation, evaluation, and result consolidation.
 
 ---
 
-# 🖼️ Galería del sistema
+## 👤 System roles
 
-## 🔐 Registro y acceso de usuarios
-
-SIGES incorpora gestión de cuentas y usuarios como parte del control de acceso al sistema.
-
-<p align="center">
-  <img src="docs/Crear%20Cuenta.jpg" alt="Creación de cuenta en SIGES" width="800" />
-</p>
-
----
-
-## 📊 Gestión de indicadores
-
-Los indicadores constituyen el núcleo del sistema. Desde esta sección se administra la información necesaria para su seguimiento y evaluación.
-
-<p align="center">
-  <img src="docs/Indicadores.jpg" alt="Listado y gestión de indicadores" width="900" />
-</p>
-
-### Creación de un indicador
-
-El proceso de creación está organizado por pasos, permitiendo introducir la información necesaria de manera estructurada.
-
-<p align="center">
-  <img src="docs/Paso%231%20Crear%20Indicador.png" alt="Paso 1 para crear un indicador" width="31%" />
-  <img src="docs/Paso%232%20Crear%20Indicador.png" alt="Paso 2 para crear un indicador" width="31%" />
-  <img src="docs/Paso%233%20Crear%20Indicador.png" alt="Paso 3 para crear un indicador" width="31%" />
-</p>
-
----
-
-## 🏛️ Gestión de áreas
-
-Administración de las áreas responsables dentro de la estructura institucional.
-
-<p align="center">
-  <img src="docs/Areas.jpg" alt="Gestión de áreas en SIGES" width="900" />
-</p>
-
----
-
-## 🎯 Objetivos estratégicos
-
-Los indicadores pueden relacionarse con los objetivos estratégicos para facilitar el seguimiento del cumplimiento institucional.
-
-<p align="center">
-  <img src="docs/Objetivos.jpg" alt="Gestión de objetivos estratégicos" width="900" />
-</p>
-
----
-
-## ⚙️ Evaluación de indicadores
-
-SIGES calcula el porcentaje de cumplimiento y permite clasificar el resultado de acuerdo con las reglas de evaluación definidas.
-
-<p align="center">
-  <img src="docs/Porcentaje%20de%20Cumplimiento.png" alt="Porcentaje de cumplimiento" width="48%" />
-  <img src="docs/Evaluacion%20del%20Indicador.jpg" alt="Evaluación del indicador" width="48%" />
-</p>
-
-### Estados de evaluación
-
-<p align="center">
-  <img src="docs/Cumplido.png" alt="Indicador cumplido" width="45%" />
-  <img src="docs/Parcialmente%20Cumplido.png" alt="Indicador parcialmente cumplido" width="45%" />
-</p>
-
-Los resultados pueden clasificarse como **Sobrecumplido, Cumplido, Parcialmente cumplido, Incumplido o No evaluado**, según corresponda.
-
----
-
-## 📈 Evaluación de procesos
-
-Los resultados individuales pueden consolidarse para evaluar el comportamiento de los procesos institucionales.
-
-<p align="center">
-  <img src="docs/Evaluacion%20Proceso.png" alt="Evaluación de procesos en SIGES" width="900" />
-</p>
-
----
-
-## 🔄 Flujo general de gestión
-
-```text
-Objetivos Estratégicos
-        ↓
-     Procesos
-        ↓
-    Indicadores
-        ↓
-       Metas
-        ↓
-Resultados Reales
-        ↓
-Porcentaje de Cumplimiento
-        ↓
-    Evaluación
-        ↓
-Resúmenes y seguimiento institucional
-```
-
----
-
-## 👥 Usuarios y roles
-
-El sistema contempla cuatro roles diferenciados:
-
-| Rol | Responsabilidad principal |
+| Role | Main responsibility |
 |---|---|
-| **Administrador** | Gestiona usuarios, configuración general y evaluación del sistema |
-| **Jefe de Proceso** | Gestiona indicadores asociados a su proceso |
-| **Jefe de Área** | Registra resultados y participa en la gestión de metas |
-| **Usuario Normal** | Accede a las funcionalidades habilitadas según sus permisos |
+| **Administrator** | Manages users, general configuration, and system evaluation |
+| **Process Manager** | Manages indicators associated with their process and consolidates related information |
+| **Area Manager** | Records actual results and participates in goal management for their area |
+| **Standard User** | Accesses features enabled according to their permission level |
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 💼 Portfolio project
 
-| Tecnología | Uso en el proyecto |
-|---|---|
-| **C#** | Lenguaje principal de desarrollo |
-| **.NET 10** | Plataforma de desarrollo |
-| **Blazor Server** | Interfaz web |
-| **SQL Server** | Persistencia de datos |
-| **Entity Framework Core** | Acceso y gestión de datos |
-| **FluentUI Blazor** | Componentes de interfaz |
-| **ASP.NET Core** | Servicios y funcionalidades web |
-| **REST API** | Comunicación mediante operaciones HTTP |
+Beyond its academic context, SIGES represents hands-on experience building a management application with business rules, multiple user roles, data persistence, APIs, and a web interface for a real institutional scenario.
+
+📄 **[Read the project case study →](docs/PORTFOLIO.md)**
 
 ---
 
-## 📐 Alcance funcional
+## 🚀 Running the project
 
-El proyecto de tesis define **50 requisitos funcionales**, organizados en ocho paquetes, y **42 operaciones REST** distribuidas en seis servicios web.
+1. Clone the repository.
+2. Open the `WEB.sln` solution using Visual Studio or JetBrains Rider.
+3. Configure the connection string and the environment-specific parameters.
+4. Restore the project dependencies.
+5. Run the application from the configured web startup project.
 
-La solución cubre el ciclo completo de gestión: configuración, asignación, definición de metas, registro de resultados, cálculo del cumplimiento, evaluación y consolidación.
-
----
-
-## 💼 Proyecto de portfolio
-
-SIGES representa una experiencia práctica en el desarrollo de una aplicación de gestión con reglas de negocio, roles de usuario, persistencia de datos, APIs y una interfaz web para un contexto institucional real.
-
-📄 **[Leer el caso de estudio del proyecto →](docs/PORTFOLIO.md)**
-
-📋 **[Ver funcionalidades documentadas →](docs/FEATURES.md)**
-
-💼 **[Ver presentación preparada para LinkedIn →](docs/LINKEDIN.md)**
+> The exact configuration may vary depending on the development environment and services configured in the project.
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## 🎓 Academic context
 
-1. Clona el repositorio.
-2. Abre `WEB.sln` con Visual Studio o JetBrains Rider.
-3. Configura la cadena de conexión y los parámetros necesarios.
-4. Restaura las dependencias.
-5. Ejecuta la aplicación desde el proyecto web configurado como proyecto de inicio.
+This project was developed as a **Diploma Thesis for the Computer Engineering degree** at the **University of Holguín**, Faculty of Computer Science and Mathematics, **Oscar Lucero Moya Campus**.
 
-> La configuración concreta puede depender del entorno de desarrollo y de los servicios configurados en el proyecto.
+The research objective was to develop a web system that would computerize the management of institutional indicators and goals, following the guidelines of the Strategic Project of Cuba's Ministry of Higher Education.
 
 ---
 
-## 🎓 Contexto académico
-
-Este proyecto fue desarrollado como **Trabajo de Diploma en opción al título de Ingeniería Informática** para la **Universidad de Holguín**, en la **Facultad de Informática y Matemática**, sede **Oscar Lucero Moya**.
-
-El objetivo fue desarrollar un sistema web que informatizara la gestión de indicadores y metas institucionales siguiendo los lineamientos del Proyecto Estratégico del Ministerio de Educación Superior de Cuba.
-
----
-
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
 **José Osvaldo Verdecia Argota**
 
-Ingeniero Informático | .NET Developer
+Computer Engineer | .NET Developer
 
 - GitHub: https://github.com/JoseVerdecia
-- Proyecto: https://github.com/JoseVerdecia/Web
+- Project: https://github.com/JoseVerdecia/Web
 
 ---
 
 <p align="center">
-  <i>Proyecto académico desarrollado para resolver un problema real de gestión y evaluación institucional.</i>
+  <i>Academic project developed to solve a real institutional management and evaluation problem.</i>
 </p>
